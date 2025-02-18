@@ -1,0 +1,21 @@
+nav {
+    background-color: aquamarine;
+}
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+ul li{
+    padding: 20px;
+    color: blueviolet;
+}
+p {
+    color: red;
+}
+h1{
+    color: pink;
+}
